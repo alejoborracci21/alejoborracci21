@@ -25,6 +25,4 @@ A los 15 años conoci la programcion en mi escuela secundaria y siempre quise ap
 
 Tengo experiencia en todas las fases del ciclo del producto: idea, concepto y diseño, análisis y desarrollo, así como lanzamiento y promoción del producto final. Experiencia práctica en Arquitectura de Información y Diseño de Bases de Datos, Desarrollo y Diseño Web.
 
-¡Bienvenido a tu próximo sitio web!
-
 [Contactate conmigo!]  Email: alejotrabajo2001@hotmail.com
