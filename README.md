@@ -13,6 +13,23 @@ Me apasiona la programacion desde hace varios años.
 
 Soy una Desarrollador Web, codificando tanto el backend como el frontend, especializándome en Front-End.
 
+## Lenguajes
+
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="37"/><a/>
+
+## Tecnologias
+
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="37"/><a/>
+
+
+##
 
 Servicios
 Desarrollar aplicaciones web con una interfaz de usuario agradable.
