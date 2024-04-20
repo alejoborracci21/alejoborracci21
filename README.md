@@ -29,15 +29,14 @@ Soy una Desarrollador Web, codificando tanto el backend como el frontend, especi
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="37"/><a/>
 
 
-##
+## Servicios:
 
-Servicios
-Desarrollar aplicaciones web con una interfaz de usuario agradable.
-Implementar nuevas caracteristicas a tu pagina web.
+- Desarrollar aplicaciones web con una interfaz de usuario agradable.
+- Implementar nuevas caracteristicas a tu pagina web.
+- Soluciones personalizadas. 
 
-Soluciones personalizadas, 
+## El proceso
 
-El proceso
 A los 15 años conoci la programcion en mi escuela secundaria y siempre quise aprender mas sobre eso. Luego curse un año la carrera de inteligencia artificial en la FCEIA de Rosario y en el año 2023 arranque el bootcamp de Full-Stack en Henry. Termine mi proyecto final en abril de 2024.
 
 Tengo experiencia en todas las fases del ciclo del producto: idea, concepto y diseño, análisis y desarrollo, así como lanzamiento y promoción del producto final. Experiencia práctica en Arquitectura de Información y Diseño de Bases de Datos, Desarrollo y Diseño Web.
