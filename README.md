@@ -11,7 +11,7 @@ Desarrollador web Full-Stack.
 ¡Hola! Mi nombre es Alejo Borracci tengo 23 años y soy de Argentina.
 Me apasiona la programacion desde hace varios años.
 
-Soy una Desarrollador Web, codificando tanto el backend como el frontend, especializándome en Front-End.
+Soy un Desarrollador Web, codificando tanto el backend como el frontend, especializándome en Front-End.
 
 ## Lenguajes
 
