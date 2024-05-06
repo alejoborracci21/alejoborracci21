@@ -28,6 +28,7 @@ Soy un Desarrollador Web Full Stack, especializándome en Front-End.
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="37"/><a/>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="37"/><a/>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="37"/><a/>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="37"/><a/>
 
 
 ## Servicios:
