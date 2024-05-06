@@ -39,7 +39,7 @@ Soy un Desarrollador Web Full Stack, especializándome en Front-End.
 
 ## El proceso
 
-A los 15 años conoci la programcion en mi escuela secundaria y siempre quise aprender mas sobre eso. Luego curse un año la carrera de inteligencia artificial en la FCEIA de Rosario y en el año 2023 arranque el bootcamp de Full-Stack en Henry. Termine mi proyecto final en abril de 2024.
+A los 15 años conoci la programacion en mi escuela secundaria y siempre quise aprender mas sobre eso. Luego curse un año la carrera de inteligencia artificial en la FCEIA de Rosario y en el año 2023 arranque el bootcamp de Full-Stack en Henry. Termine mi proyecto final en abril de 2024.
 
 Tengo experiencia en todas las fases del ciclo del producto: idea, concepto y diseño, análisis y desarrollo, así como lanzamiento y promoción del producto final. Experiencia práctica en Arquitectura de Información y Diseño de Bases de Datos, Desarrollo y Diseño Web.
 
