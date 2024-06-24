@@ -39,6 +39,11 @@ Soy un Desarrollador Web Full Stack, especializándome en Front-End.
 ## Estadisticas
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 ## El proceso
 
 A los 15 años conoci la programacion en mi escuela secundaria y siempre quise aprender mas sobre eso. Luego curse un año la carrera de inteligencia artificial en la FCEIA de Rosario y en el año 2023 arranque el bootcamp de Full-Stack en Henry. Termine mi proyecto final en abril de 2024.
