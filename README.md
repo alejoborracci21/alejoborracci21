@@ -42,7 +42,7 @@ Soy un Desarrollador Web Full Stack, especializándome en Front-End.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21&hide=contribs,prs)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21&show_icons=true)
 
 ## El proceso
 
