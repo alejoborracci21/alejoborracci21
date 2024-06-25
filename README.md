@@ -35,12 +35,9 @@ Soy un Desarrollador Web Full Stack, especializándome en Front-End.
 
 - Desarrollar aplicaciones web con una interfaz de usuario agradable.
 - Implementar nuevas caracteristicas a tu pagina web.
-- Soluciones personalizadas. 
+- Soluciones personalizadas.
+  
 ## Estadisticas
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21&hide=contribs,prs)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoborracci21&show_icons=true)
 
